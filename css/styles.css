@@ -77,7 +77,7 @@ body {
   color: var(--brand-color-body);
 }
 
-.contact:active,
+.contact:hover,
 .contact:focus {
   color: var(--brand-color-all);
 }
