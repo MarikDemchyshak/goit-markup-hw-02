@@ -84,7 +84,7 @@ body {
 }
 
 .mailto-tel:hover,
-.cmailto-tel:focus {
+.mailto-tel:focus {
   color: var(--header-contact-color);
 }
 
