@@ -173,73 +173,63 @@ body {
 }
 
 .btn {
-  color: var(--logo-web);
   cursor: pointer;
 }
 
 .btn-1 {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  padding: 12px 24px;
-  width: 69px;
-  height: 48px;
-  background: var(--button-footer-text);
-  border: 1px solid var(--button-color);
-  border-radius: 4px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--logo-web);
+  background-color: var(--button-footer-text);
+}
+
+.btn-1:focus,
+.btn-1:hover {
+  color: var(--brand-color-btn-1);
+  background-color: var(--header-contact-color);
 }
 
 .btn-2 {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  padding: 12px 24px;
-  width: 116px;
-  height: 48px;
-  background: var(--button-footer-text);
-  border: 1px solid var(--button-color);
-  border-radius: 4px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--logo-web);
+  background-color: var(--button-footer-text);
 }
 
 .btn-3 {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  padding: 12px 24px;
-  width: 78px;
-  height: 48px;
-  background: var(--button-footer-text);
-  border: 1px solid var(--button-color);
-  border-radius: 4px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--logo-web);
+  background-color: var(--button-footer-text);
 }
 
 .btn-4 {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  padding: 12px 24px;
-  width: 101px;
-  height: 48px;
-  background: var(--button-footer-text);
-  border: 1px solid var(--button-color);
-  border-radius: 4px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--logo-web);
+  background-color: var(--button-footer-text);
 }
 
 .btn-5 {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  padding: 12px 24px;
-  width: 126px;
-  height: 48px;
-  background: var(--button-footer-text);
-  border: 1px solid var(--button-color);
-  border-radius: 4px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--logo-web);
+  background-color: var(--button-footer-text);
 }
 
 .footer-logo-web {
