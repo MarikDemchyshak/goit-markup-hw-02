@@ -22,6 +22,7 @@
 
 body {
   font-family: "Roboto", sans-serif;
+  background-color: var(--brand-color-btn-1);
   color: var(--color-body);
 }
 
@@ -203,10 +204,10 @@ body {
 
 .footer-logo-web {
   font-family: "Raleway", sans-serif;
-  font-style: normal;
+  /* font-style: normal; */
   font-weight: 800;
   font-size: 18px;
-  line-height: 21px;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--logo-web);
@@ -214,10 +215,10 @@ body {
 
 .footer-logo-studio {
   font-family: "Raleway", sans-serif;
-  font-style: normal;
+  /* font-style: normal; */
   font-weight: 800;
   font-size: 18px;
-  line-height: 21px;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--button-footer-text);
