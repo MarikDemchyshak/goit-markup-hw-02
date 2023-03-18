@@ -176,7 +176,7 @@ body {
   cursor: pointer;
 }
 
-.btn-1 {
+.btn-all {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -186,13 +186,13 @@ body {
   background-color: var(--button-footer-text);
 }
 
-.btn-1:focus,
-.btn-1:hover {
+.btn-all:focus,
+.btn-all:hover {
   color: var(--brand-color-btn-1);
   background-color: var(--header-contact-color);
 }
 
-.btn-2 {
+/* .btn-web-site {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -202,7 +202,7 @@ body {
   background-color: var(--button-footer-text);
 }
 
-.btn-3 {
+.btn-app {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -212,7 +212,7 @@ body {
   background-color: var(--button-footer-text);
 }
 
-.btn-4 {
+.btn-design {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -222,7 +222,7 @@ body {
   background-color: var(--button-footer-text);
 }
 
-.btn-5 {
+.btn-marketing {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -230,7 +230,7 @@ body {
   letter-spacing: 0.04em;
   color: var(--logo-web);
   background-color: var(--button-footer-text);
-}
+} */
 
 .footer-logo-web {
   font-family: "Raleway", sans-serif;
