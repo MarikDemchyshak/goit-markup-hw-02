@@ -192,45 +192,20 @@ body {
   background-color: var(--header-contact-color);
 }
 
-/* .btn-web-site {
-  font-family: "Roboto", sans-serif;
+.section-title {
   font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-  color: var(--logo-web);
-  background-color: var(--button-footer-text);
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--logo-studio);
 }
 
-.btn-app {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
+.section-text {
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.04em;
-  color: var(--logo-web);
-  background-color: var(--button-footer-text);
+  letter-spacing: 0.02em;
+  color: var(--color-body);
 }
-
-.btn-design {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-  color: var(--logo-web);
-  background-color: var(--button-footer-text);
-}
-
-.btn-marketing {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-  color: var(--logo-web);
-  background-color: var(--button-footer-text);
-} */
 
 .footer-logo-web {
   font-family: "Raleway", sans-serif;
