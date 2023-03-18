@@ -138,7 +138,12 @@ body {
   line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
+  text-transform: capitalize;
   color: var(--logo-studio);
+}
+
+.section-four-background {
+  background-color: var(--button-footer-text);
 }
 
 .section-four-title {
@@ -148,10 +153,9 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--logo-studio);
-  background-color: var(--button-footer-text);
 }
 
-.img-our-team {
+.img-background {
   background-color: var(--brand-color-btn-1);
 }
 
