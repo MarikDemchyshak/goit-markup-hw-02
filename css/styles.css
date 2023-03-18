@@ -66,6 +66,7 @@ body {
 .header-menu:hover,
 .header-menu:focus {
   color: var(--header-contact-color);
+  color: var(--header-contact-color);
 }
 
 .header-address {
