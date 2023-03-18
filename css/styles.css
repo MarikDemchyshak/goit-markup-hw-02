@@ -112,7 +112,7 @@ body {
 
 .btn-text-color:focus,
 .btn-text-color:hover {
-  color: var(--header-contact-color);
+  background-color: var(--header-contact-color);
 }
 
 .section-2-title {
