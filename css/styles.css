@@ -134,15 +134,38 @@ body {
 }
 
 .section-three-title {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: var(--logo-studio);
 }
 
 .section-four-title {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: var(--logo-studio);
+  background-color: var(--button-footer-text);
 }
 
-.section-4-name {
+.img-our-team {
+  background-color: var(--brand-color-btn-1);
+}
+
+.section-four-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--logo-studio);
 }
 
 .section-four-profession {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .btn {
