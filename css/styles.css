@@ -99,11 +99,6 @@ body {
   color: var(--brand-color-btn-1);
 }
 
-/* .btn-order {
-  background-color: var(--logo-web);
-  cursor: pointer;
-} */
-
 .btn-text-color {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
