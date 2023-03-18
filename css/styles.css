@@ -69,7 +69,7 @@ body {
   color: var(--header-contact-color);
 }
 
-.contact {
+.mailto-tel {
   font-family: "Roboto" sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -79,8 +79,8 @@ body {
   color: var(--color-body);
 }
 
-.contact:hover,
-.contact:focus {
+.mailto-tel:hover,
+.cmailto-tel:focus {
   color: var(--header-contact-color);
 }
 
@@ -112,20 +112,26 @@ body {
   color: var(--brand-color-btn-1);
 }
 
-.btn {
-  font-family: "Roboto" sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 24px;
-  display: flex;
-  align-items: center;
-  text-align: center;
-  letter-spacing: 0.04em;
-  color: var(--logo-web);
+.section-2-title {
+}
+
+.section-2-text {
+}
+
+.section-3-title {
+}
+
+.section-4-title {
+}
+
+.section-4-name {
+}
+
+.section-4-profession {
 }
 
 .btn {
+  color: var(--logo-web);
   cursor: pointer;
 }
 
@@ -192,12 +198,6 @@ body {
   background: var(--button-footer-text);
   border: 1px solid var(--button-color);
   border-radius: 4px;
-}
-
-.section-title {
-}
-
-.section-text {
 }
 
 .footer-logo-web {
