@@ -22,7 +22,7 @@
 
 body {
   font-family: "Roboto", sans-serif;
-  color: var(--brand-color-body);
+  color: var(--color-body);
 }
 
 .items {
