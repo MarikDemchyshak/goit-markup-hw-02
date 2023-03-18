@@ -92,11 +92,9 @@ body {
 }
 
 .title-text {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 700;
   font-size: 56px;
-  line-height: 60px;
+  line-height: 1.07;
+  text-align: center;
   letter-spacing: 0.02em;
   color: var(--brand-color-btn-1);
 }
@@ -108,12 +106,16 @@ body {
 
 .btn-text-color {
   font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.04em;
   color: var(--brand-color-btn-1);
+}
+
+.btn-text-color:focus,
+.btn-text-color:hover {
+  color: var(--header-contact-color);
 }
 
 .section-2-title {
