@@ -91,6 +91,9 @@ body {
   background-color: var(--logo-studio);
 }
 
+.title-one {
+}
+
 .title-text {
   font-size: 56px;
   line-height: 1.07;
