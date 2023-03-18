@@ -47,7 +47,6 @@ body {
 .header-logo-studio {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
-  font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
@@ -69,12 +68,16 @@ body {
   color: var(--header-contact-color);
 }
 
+.header-address {
+  font-style: normal;
+}
+
 .mailto-tel {
   font-family: "Roboto" sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--color-body);
 }
