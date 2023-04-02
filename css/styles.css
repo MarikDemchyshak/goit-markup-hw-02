@@ -55,6 +55,7 @@ body {
 .header-menu:hover,
 .header-menu:focus {
   color: var(--header-contact-color);
+  background-color: transparent;
 }
 
 .header-address {
